@@ -9,3 +9,4 @@ Commit 8: Add auth routes (login, register)
 Commit 9: Create property listing endpoints
 Commit 10: Add property details endpoint
 Commit 11: Integrate Groq AI SDK
+Commit 12: Build AI Advisor chat endpoint
