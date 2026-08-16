@@ -1,3 +1,4 @@
 Commit 1: Initialize Express server
 Commit 2: Add TypeScript configuration
 Commit 3: Set up ESLint and Prettier
+Commit 4: Configure MongoDB connection
