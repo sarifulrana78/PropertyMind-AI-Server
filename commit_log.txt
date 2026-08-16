@@ -7,3 +7,4 @@ Commit 6: Create Property model and schema
 Commit 7: Implement JWT authentication middleware
 Commit 8: Add auth routes (login, register)
 Commit 9: Create property listing endpoints
+Commit 10: Add property details endpoint
