@@ -1,1 +1,2 @@
 Commit 1: Initialize Express server
+Commit 2: Add TypeScript configuration
