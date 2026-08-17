@@ -19,3 +19,4 @@ Commit 18: Add validation middleware for property creation
 Commit 19: Implement pagination for property listings
 Commit 20: Enhance AI advisor prompt with market context
 Commit 21: Optimize database query performance
+Commit 22: Fix JWT expiration edge case
