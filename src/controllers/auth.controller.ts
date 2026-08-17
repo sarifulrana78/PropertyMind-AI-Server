@@ -6,7 +6,7 @@ import { AuthRequest } from '../middleware/auth.middleware';
 const generateToken = (id: string, role: string): string => {
   const secret = process.env.JWT_SECRET || 'secret';
   return jwt.sign({ id, role }, secret, {
-    expiresIn: (process.env.JWT_EXPIRES_IN || '7d') as string,
+    expiresIn: (process.env.JWT_EXPIRES_IN || '7d') as any,
   });
 };
 
