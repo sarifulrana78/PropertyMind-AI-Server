@@ -21,3 +21,4 @@ Commit 20: Enhance AI advisor prompt with market context
 Commit 21: Optimize database query performance
 Commit 22: Fix JWT expiration edge case
 Commit 23: Add unit tests structure
+Commit 24: Update API documentation comments
